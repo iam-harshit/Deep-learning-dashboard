@@ -46,4 +46,3 @@ The ideal implementation of the project will be on cloud but due to time and cos
 #### 1. JSP (Java Server Pages)
 #### 2. Servlet
 #### 3. Servlet Filter
-#### 4. Machine Learning Algorithm
