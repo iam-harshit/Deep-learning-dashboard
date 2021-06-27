@@ -31,11 +31,20 @@ The ideal implementation of the project will be on cloud but due to time and cos
 #### 4. 1 gig disk space
 
 ### Software Requirements:
-#### 1. Microsoft Windows XP or higher version
-#### 3. Any browser
-#### 4. Spring Framework latest version
-#### 5. Spring Web Services latest version
-#### 6. Java sdk
+#### 1. Google Chrome (Browser)<br>
+#### 2. Cuda toolkit 11.0<br.
+#### 3. Cudnn 7.6<br>
+#### 4. Visual Studio 2019<br>
+#### 5. Pycharm<br>
+#### 6. Anaconda<br>
+#### 7. Glassfish server<br>
+#### 8. Java jdk<br>
+#### 9. Payment Gateway SDK<br>
+#### 10. MySQL database<br>
+#### 11. MySQL connector<br>
+#### 12. Netbeans<br>
+
+
 
 # Technology Stack
 ### Frontend
