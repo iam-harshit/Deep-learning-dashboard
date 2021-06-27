@@ -53,5 +53,6 @@ The ideal implementation of the project will be on cloud but due to time and cos
 
 ### Backend
 #### 1. JSP (Java Server Pages)
-#### 2. Servlet
-#### 3. Servlet Filter
+#### 2. Java Web Servlet
+#### 3. Servlet Filters
+#### 4. MySQL 
