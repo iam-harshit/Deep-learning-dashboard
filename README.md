@@ -3,8 +3,6 @@ This project will be an example of a SAAS platform where a user can use the serv
 
 The project is a combination of all the beginner to advanced level machine learning and deep learning projects that can be used and tried by everyone. The python instance will provide the option to users to make their own code.
 
-Click on the link for PPT: https://docs.google.com/presentation/d/1443CAJC2ENhfgPnPD0Ngl3rt_NAT95PZbxFoWIkxcvY/edit?usp=sharing
-
 # Project Module
 #### 1. Signup & Login<br>
 #### 2. Payment Gateway<br>
